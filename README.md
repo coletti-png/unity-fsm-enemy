@@ -11,7 +11,7 @@ This project is meant to be easy to read, easy to extend, and a good foundation 
 
 ## Demo
 
-https://github.com/user-attachments/assets/65e99d46-f8bb-47f5-823a-81fa7bf74eb8
+https://github.com/user-attachments/assets/7236ec23-701d-45f6-ac09-369b5e3face6
 
 ---
 
